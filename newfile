@@ -1,0 +1,5 @@
+in this step we are going to use the command 
+git revert <commit id>
+git push aliasname branch name -f (this command is used for the we will going to remove the file once we commit to the remote repositriy so that forst we have to delete it from the local repsoitory and the we have use this command)
+git reset (which is used to reove the commited files from locsl repository)
+
